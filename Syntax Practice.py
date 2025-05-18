@@ -1,3 +1,0 @@
-meow = "meow"
-
-print(meow)
